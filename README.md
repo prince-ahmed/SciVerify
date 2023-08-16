@@ -4,6 +4,11 @@
 
 # Using ML/NLP to Identify Relationships and Similarities in Grant Proposal Texts
 
+
+
+The code can be found [here](https://gitlab.oit.duke.edu/code-plus-ml-nlp/codeplus-final).
+
+
 **README documentation for the project**
 </td></tr></table>
 
